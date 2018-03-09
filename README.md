@@ -1,9 +1,11 @@
 # observe-it
 
+Examples documenting typical usages of iterators and observers.
+
 ## Usage
 
 * Install Leiningen from here: https://leiningen.org/#install
-* Run: `lein main`
+* On the command line issue: `lein run`
 
 ## License
 
